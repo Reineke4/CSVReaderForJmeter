@@ -1,0 +1,2 @@
+The test run finished with 0.31 % of server errors
+The test run finished with 0 % of client errors
